@@ -4,7 +4,7 @@
 - IDE : Eclipse(JSP)
 - BackEnd : Java
 - Frontend : html, css, javascript
-- Database : MariaDB(Mysql)
+- Database : MariaDB(Mysql) v10.4.21
 - Server : Apache Tomcat v8.5.72
 - Opensource : Bootstrap 3.3.7, Unsplash
 
